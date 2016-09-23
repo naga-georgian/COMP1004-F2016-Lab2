@@ -16,7 +16,7 @@ namespace COMP1004_F2016_Lab2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new SplashForm());
         }
     }
 }
