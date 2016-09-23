@@ -47,7 +47,7 @@
             // SplashFormTimer
             // 
             this.SplashFormTimer.Enabled = true;
-            this.SplashFormTimer.Interval = 3000;
+            this.SplashFormTimer.Interval = 2000;
             this.SplashFormTimer.Tick += new System.EventHandler(this.SplashFormTimer_Tick);
             // 
             // SplashForm
